@@ -1,1 +1,1 @@
-print("learning data science")
+print("machine learning")
